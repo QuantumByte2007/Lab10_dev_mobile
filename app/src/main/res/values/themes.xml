@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lab10" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_accent</item>
+        <item name="colorOnPrimary">@color/pure_white</item>
+        <item name="colorPrimaryContainer">@color/primary_brand</item>
+        <item name="android:windowBackground">@color/surface_light</item>
+        <item name="android:statusBarColor">@color/primary_brand</item>
+    </style>
+
+    <style name="Theme.Lab10" parent="Base.Theme.Lab10" />
+
+    <style name="Theme.Lab10.AppBarOverlay" parent="ThemeOverlay.Material3.Dark.ActionBar" />
+
+    <style name="Theme.Lab10.PopupOverlay" parent="ThemeOverlay.Material3.Light" />
+</resources>

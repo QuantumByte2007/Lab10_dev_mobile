@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_brand">#2D3436</color>
+    <color name="primary_accent">#0984E3</color>
+    <color name="surface_light">#F5F6FA</color>
+    <color name="text_main">#2D3436</color>
+    <color name="text_sub">#636E72</color>
+    <color name="pure_white">#FFFFFF</color>
+    <color name="pure_black">#000000</color>
+    <color name="overlay_dark">#80000000</color>
+</resources>

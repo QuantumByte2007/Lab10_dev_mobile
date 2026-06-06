@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nexus Workspace</string>
+    <string name="navigation_drawer_open">Ouvrir le panneau</string>
+    <string name="navigation_drawer_close">Fermer le panneau</string>
+    <string name="menu_home">Vue d\'ensemble</string>
+    <string name="menu_stats">Analyses &amp; Data</string>
+    <string name="welcome_nexus">Système Nexus Actif</string>
+    <string name="desc_nexus">Plateforme de gestion centralisée</string>
+</resources>
